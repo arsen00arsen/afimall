@@ -1,0 +1,37 @@
+.timer_Box {
+  width: 578px;
+  height: 100px;
+  background: linear-gradient(245.5deg, #842d70 16.89%, #0e83f0 93.78%);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.timer_Item_First_Block {
+  font-family: "AvenirNextCyr";
+  font-style: normal;
+  font-weight: 200;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.tim_Item {
+  font-family: "AvenirNextCyr";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  color: #ffffff;
+}
+
+.item {
+  font-family: "AvenirNextCyr";
+  font-style: normal;
+  font-weight: 100;
+  font-size: 15px;
+  line-height: 18px;
+  color: #ffffff;
+  padding: 8px;
+}

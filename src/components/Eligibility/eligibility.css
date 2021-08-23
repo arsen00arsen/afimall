@@ -1,0 +1,64 @@
+.eligibility_Box {
+  background-color: black;
+  padding: 150px 250px 0 250px;
+}
+
+.eligibility_title {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 74px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+}
+.eligibility_Footer_Btn_Wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+}
+.eligibility_Footer_Btn {
+  align-items: center;
+  padding: 22px 40px 23px;
+  width: 280px;
+  height: 60px;
+  background: #00bdf2;
+  border: none;
+  outline: none;
+  color: #fff;
+}
+.eligibility_Footer_Box_Wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 210px;
+}
+
+.eligibility_Footer_Box {
+  width: 800px;
+  height: 162px;
+  background: linear-gradient(245.5deg, #842d70 16.89%, #0e83f0 93.78%);
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.eligibility_Footer_Box_Btn {
+  align-items: center;
+  padding: 22px 40px 23px;
+  width: 221px;
+  height: 60px;
+  background: #00bdf2;
+  outline: none;
+  border: none;
+  color: #fff;
+}
+.eligibility_Footer_Box div{
+    font-style: normal;
+    font-weight: 100;
+    font-size: 30px;
+    max-width: 420px;
+    /* line-height: 37px; */
+    color: #FFFFFF;
+    word-break: break-word;
+}

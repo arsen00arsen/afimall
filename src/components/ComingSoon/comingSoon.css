@@ -1,0 +1,63 @@
+.coming_Soon_Box {
+  background-color: black;
+  padding: 40px 60px;
+}
+
+.coming_Soon_Timer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.box{
+    display: flex;
+}
+
+.comin_Soon_Promo {
+  font-family: "AvenirNextCyr";
+  font-style: normal;
+  font-weight: 100;
+  font-size: 25px;
+  line-height: 37px;
+  text-transform: uppercase;
+  color: #00bdf2;
+  margin-top: 70px;
+}
+
+.coming_Soon_Contect {
+  font-family: "AvenirNextCyr";
+  font-style: normal;
+  font-weight: 200;
+  font-size: 40px;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin-top: 40px;
+}
+.comin_Soon_Title {
+  font-family: "AvenirNextCyr";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 65px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.coming_Soon_Limit {
+  font-family: "AvenirNextCyr";
+  font-style: normal;
+  font-weight: 200;
+  font-size: 30px;
+  line-height: 37px;
+  text-transform: uppercase;
+  color: #ff54c4;
+  margin-top: 40px;
+}
+.coming_Soon_Btn {
+  padding: 22px 40px 23px;
+  width: 221px;
+  height: 60px;
+  background: #00bdf2;
+  outline: none;
+  border: none;
+  margin-top: 90px;
+  color: #ffffff;
+}

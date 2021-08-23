@@ -1,0 +1,58 @@
+.propmo_Card_Box{
+    margin-top: 90px;
+}
+.titles {
+    font-family: "AvenirNextCyr";
+    font-style: normal;
+    font-weight: 200;
+    font-size: 36px;
+    line-height: 100%;
+    color: #ff54c4;
+  }
+  .uniq-Title {
+    font-family: "AvenirNextCyr";
+    font-style: normal;
+    font-weight: 200;
+    font-size: 36px;
+    line-height: 100%;
+    color: #00bdf2;
+  }
+  .title_2 {
+    font-family: "AvenirNextCyr";
+    font-style: normal;
+    font-weight: 100;
+    font-size: 14px;
+    line-height: 17px;
+    color: #ffffff;
+    margin-top: 38px;
+  }
+  .about_Btn {
+    padding: 22px 40px 23px;
+    width: 217px;
+    height: 60px;
+    background: #00bdf2;
+    outline: none;
+    border: none;
+    color: #ffffff;
+    margin-top: 90px;
+  }
+  .btn_Text {
+    color: #ffffff;
+    font-family: "AvenirNextCyr";
+    font-style: normal;
+    font-weight: 100;
+    font-size: 12px;
+    margin-left: 40px;
+  }
+  
+  .promo_Card_Box {
+    display: flex;
+    justify-content: space-between;
+  }
+  .img_Box {
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    background: linear-gradient(245.5deg, #842d70 16.89%, #0e83f0 93.78%);
+    margin-top: 80px;
+  }

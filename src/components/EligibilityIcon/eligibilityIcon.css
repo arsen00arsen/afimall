@@ -1,0 +1,82 @@
+.eligibility_Card_Context {
+  color: #fff;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 100%;
+  margin-left: 20px;
+}
+
+.icon_Box {
+  width: 240px;
+  height: 230px;
+  position: relative;
+}
+
+.icon_Number {
+  position: absolute;
+  color: #fff;
+  left: var(--icon-position);
+  top: 16%;
+  font-size: 100px;
+  font-weight: 100;
+}
+.uniq_Text {
+  font-style: normal;
+  font-weight: 100;
+  font-size: 14px;
+  line-height: 17px;
+  color: #fff;
+  margin: 20px 0 0 20px;
+}
+
+.eligibility_Btn {
+  padding: 22px 40px 23px;
+  width: 221px;
+  height: 60px;
+  background: #00bdf2;
+  outline: none;
+  border: none;
+  color: #ffffff;
+  margin: 30px 0 0 20px;
+}
+
+.btn {
+  background: #00bdf2;
+  border-radius: 5px;
+  color: #fff;
+  font-weight: 200;
+  font-size: 14px;
+  border: none;
+  outline: none;
+  margin-top: 25px;
+  margin-left: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 9px 20px;
+}
+.btn span {
+  margin-left: 15px;
+}
+
+.icon_Wrapper {
+  width: 65%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 60px;
+}
+
+.flex_Left {
+  display: flex;
+  justify-content: start;
+}
+.flex_Right {
+  display: flex;
+  justify-content: flex-end;
+}
+.btn_Wrapper {
+  display: flex;
+  align-items: center;
+}
